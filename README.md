@@ -2,7 +2,13 @@
 
 Releases of the AOZUMI Agents desktop app. Coding agents run on your Mac, or in the cloud on [AOZUMI](https://aozumi.dev).
 
-**[Download the latest release →](https://github.com/AoZumi-Labs/aozumi-agents-desktop/releases/latest)** (the `.dmg`)
+**Install from Terminal** (checks the download, installs into Applications, and opens it):
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/AoZumi-Labs/aozumi-agents-desktop/main/install.sh | sh
+```
+
+Or **[download the latest release →](https://github.com/AoZumi-Labs/aozumi-agents-desktop/releases/latest)** (the `.dmg`).
 
 - Needs an Apple Silicon Mac (M1 or later) on macOS 13 or newer.
 - Installed apps update themselves from these releases. Settings → Updates shows when one is ready.
