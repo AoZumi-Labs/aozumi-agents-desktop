@@ -25,9 +25,9 @@ SOFTWARE.
 
 ------------------------------------------------------------------------------
 
-AOZUMI Agents
+Hachi (AOZUMI Agents)
 
-AOZUMI Agents is a modified version of Cloudroom GUI
+Hachi is a modified version of Cloudroom GUI
 (https://github.com/davidondrej/cloudroom-gui), licensed under the Apache
 License, Version 2.0 (see LICENSE). Cloudroom GUI is in turn based on BB, whose
 MIT notice appears above and is retained.
@@ -37,8 +37,8 @@ Modifications by AOZUMI Labs, 2026:
   (its own sandbox) per cloud thread, and core access through AOZUMI's
   authenticated pass-through.
 - Features that depend on Cloudroom's hosted services are turned off.
-- The product is renamed AOZUMI Agents, with its own bundle identifier, URL
-  scheme, data folder, update feed, and original icons. The Cloudroom name and
+- The product is renamed Hachi (first released as AOZUMI Agents), with its own
+  bundle identifier, URL scheme, data folder, update feed, and original icons. The Cloudroom name and
   artwork are not used for this product.
 
 Files changed from the original carry this notice through this NOTICE file and
@@ -48,7 +48,7 @@ the version history of this repository.
 
 zeron (https://github.com/zeronsh/zeron)
 
-Some interface behaviour in AOZUMI Agents is a close translation of zeron's
+Some interface behaviour in Hachi is a close translation of zeron's
 desktop client at commit 911ec56, re-implemented in React from a written
 description (docs/aozumi/ZERON-UI-SPEC.md). No zeron source code, brand, logo,
 loaders, colors or sounds are used. The translated pieces and their constants
